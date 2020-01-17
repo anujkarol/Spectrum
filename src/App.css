@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+tr td,
+tr th {
+  border-bottom: 1px solid #ccc;
+  padding: 4px;
+  text-align: left;
+}
+
+tr th i {
+  padding: 0 10px;
+  cursor: pointer;
+}
+
+button {
+  color: #fff;
+  background: #ff3333;
+  border-radius: 0;
+  border: 0;
+  padding: 4px 10px;
+  font-size: 10px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
